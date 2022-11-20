@@ -31,3 +31,4 @@ yarn run dev
 - Official documentation for three.js: https://threejs.org/docs/
 - Use Premade 3D Models: https://sketchfab.com/
 - Create your own 3D models: https://www.blender.org/
+- Examples of Three.js Starter Code: https://github.com/brunosimon/threejs-template-simple 
